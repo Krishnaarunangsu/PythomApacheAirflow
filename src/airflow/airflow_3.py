@@ -65,7 +65,7 @@ with DAG(
         # [END default_args]
         description="A simple tutorial DAG",
         schedule=timedelta(days=1),
-        start_date=datetime(2021, 1, 1),
+        start_date=datetime(2021, 2, 20),
         catchup=False,
         tags=["example"],
 ) as dag:
