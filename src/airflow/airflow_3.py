@@ -16,9 +16,8 @@
 # specific language governing permissions and limitations
 # under the License.
 """
-### Tutorial Documentation
-Documentation that goes along with the Airflow tutorial located
-[here](https://airflow.apache.org/tutorial.html)
+# Tutorial Documentation-
+that goes along with the Airflow tutorial located [here](https://airflow.apache.org/tutorial.html)
 """
 from __future__ import annotations
 
