@@ -40,7 +40,7 @@ with DAG(
 ) as dag:
     task_1=PythonOperator(
         task_id="Hello_World",
-        python_callable=print_hello_krishna()
+        python_callable=print_hello_krishna
     )
 task_1
 # [END tutorial]
